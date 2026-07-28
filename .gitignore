@@ -1,0 +1,4 @@
+node_modules/
+System_Logs/
+kernel.lock
+*.log
